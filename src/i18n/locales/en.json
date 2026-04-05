@@ -1,0 +1,189 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "software": "Software",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "testimonials": "Testimonials",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "DIGITAL EXPERIENCE",
+    "subtitle": "We craft immersive digital solutions that redefine boundaries.",
+    "description": "From cutting-edge software products to bespoke website development, we transform your vision into digital reality.",
+    "cta_primary": "Explore Our Work",
+    "cta_secondary": "Get in Touch",
+    "badge_software": "Software Solutions",
+    "badge_web": "Web Development"
+  },
+  "about": {
+    "title": "WHO WE ARE",
+    "subtitle": "Pioneering the future of digital innovation",
+    "description": "We are a team of passionate developers, designers, and strategists dedicated to creating exceptional digital experiences.",
+    "cards": {
+      "innovation": {
+        "title": "Innovation First",
+        "description": "Pushing boundaries with cutting-edge technologies and creative solutions."
+      },
+      "global": {
+        "title": "Global Reach",
+        "description": "Delivering impactful digital solutions to clients worldwide."
+      },
+      "future": {
+        "title": "Future Ready",
+        "description": "Building tomorrow's technology with today's expertise."
+      }
+    },
+    "stats": {
+      "projects": "Projects Delivered",
+      "clients": "Happy Clients",
+      "experience": "Years Experience",
+      "team": "Expert Team Members"
+    }
+  },
+  "software": {
+    "title": "OUR SOFTWARE PRODUCTS",
+    "subtitle": "Powerful solutions designed for modern businesses",
+    "products": {
+      "crm": {
+        "name": "NexGen CRM",
+        "description": "AI-powered customer relationship management platform with advanced analytics and automation.",
+        "features": ["AI Analytics", "Automation", "Multi-channel"]
+      },
+      "erp": {
+        "name": "NexGen ERP",
+        "description": "Enterprise resource planning system for seamless business operations management.",
+        "features": ["Inventory", "Finance", "HR Module"]
+      },
+      "ecommerce": {
+        "name": "NexGen Commerce",
+        "description": "Scalable e-commerce platform with built-in marketing and payment solutions.",
+        "features": ["Payment Gateway", "Analytics", "Multi-vendor"]
+      },
+      "analytics": {
+        "name": "NexGen Analytics",
+        "description": "Real-time business intelligence and data visualization dashboard.",
+        "features": ["Real-time", "Reports", "Predictions"]
+      }
+    },
+    "cta": "Request Demo"
+  },
+  "services": {
+    "title": "OUR EXPERTISE",
+    "subtitle": "Comprehensive web development services tailored to your needs",
+    "items": {
+      "web_design": {
+        "title": "Web Design",
+        "description": "Stunning, user-centric designs that captivate and convert visitors into customers."
+      },
+      "development": {
+        "title": "Development",
+        "description": "Robust, scalable web applications built with modern technologies and best practices."
+      },
+      "branding": {
+        "title": "Branding",
+        "description": "Strategic brand identity development that sets you apart from the competition."
+      },
+      "marketing": {
+        "title": "Marketing",
+        "description": "Data-driven digital marketing strategies to grow your online presence."
+      },
+      "strategy": {
+        "title": "Strategy",
+        "description": "Comprehensive digital roadmaps aligned with your business objectives."
+      }
+    },
+    "technologies": "Technologies We Use",
+    "cta": "Start Your Project"
+  },
+  "portfolio": {
+    "title": "OUR WORK",
+    "subtitle": "Showcasing our finest digital creations",
+    "view_project": "View Project",
+    "projects": {
+      "project1": {
+        "name": "TechFlow Platform",
+        "category": "Web Application",
+        "description": "Enterprise workflow management system"
+      },
+      "project2": {
+        "name": "Luxe Boutique",
+        "category": "E-commerce",
+        "description": "Luxury fashion online store"
+      },
+      "project3": {
+        "name": "HealthPlus Portal",
+        "category": "Healthcare",
+        "description": "Patient management and telemedicine platform"
+      },
+      "project4": {
+        "name": "FinanceHub",
+        "category": "Fintech",
+        "description": "Financial analytics dashboard"
+      }
+    }
+  },
+  "testimonials": {
+    "title": "CLIENT VOICES",
+    "subtitle": "What our clients say about working with us",
+    "items": {
+      "testimonial1": {
+        "text": "NexGen transformed our digital presence completely. Their attention to detail and innovative approach exceeded all expectations.",
+        "author": "Ahmed Hassan",
+        "role": "CEO, TechStart"
+      },
+      "testimonial2": {
+        "text": "The team's expertise in both software development and web design made them the perfect partner for our project.",
+        "author": "Sarah Johnson",
+        "role": "Marketing Director, GlobalBrand"
+      },
+      "testimonial3": {
+        "text": "Professional, creative, and always delivering on time. Highly recommend their services to anyone looking for quality.",
+        "author": "Mohammed Ali",
+        "role": "Founder, InnovateCo"
+      },
+      "testimonial4": {
+        "text": "Their multi-language support and RTL expertise were crucial for our Middle East expansion. Outstanding work!",
+        "author": "Emily Chen",
+        "role": "Product Manager, ExpandInc"
+      }
+    }
+  },
+  "contact": {
+    "title": "INITIATE CONTACT",
+    "subtitle": "Ready to start your next project? Let's talk",
+    "form": {
+      "name": "Your Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "message": "Your Message",
+      "submit": "Send Message",
+      "sending": "Sending...",
+      "success": "Message sent successfully!"
+    },
+    "info": {
+      "title": "Get in Touch",
+      "description": "Have a project in mind? We'd love to hear from you. Send us a message and we'll respond as soon as possible.",
+      "email": "Email",
+      "phone": "Phone",
+      "address": "Address",
+      "address_value": "123 Innovation Street, Tech City, TC 12345"
+    },
+    "cta": "Let's Build Something Amazing"
+  },
+  "footer": {
+    "tagline": "Crafting digital experiences that inspire and innovate.",
+    "quick_links": "Quick Links",
+    "services": "Services",
+    "contact": "Contact",
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "language": {
+    "select": "Select Language",
+    "en": "English",
+    "ar": "العربية"
+  }
+}
